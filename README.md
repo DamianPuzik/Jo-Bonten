@@ -1,3 +1,3 @@
 # i-am-awesome
 
-# Max heeft deze readme aangevuld.
+Max heeft deze readme aangevuld.
