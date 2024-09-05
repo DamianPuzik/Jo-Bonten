@@ -2,6 +2,6 @@
 
 Max heeft deze readme aangevuld.
 
-![Lorem Ipsum gif](images.sam-sulek-samsulek.gif)
+![Lorem Ipsum gif](Images.sam-sulek-samsulek.gif)
 
 
